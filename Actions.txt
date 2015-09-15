@@ -1,0 +1,5 @@
+Common actions that a player can do:
+
+play a card in a trick
+make a meld with existing cards
+see possible melds
